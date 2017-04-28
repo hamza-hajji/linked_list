@@ -1,8 +1,8 @@
-** Linked List **
+**Linked List**
 
 run `ruby test_drive.rb` to see an example of usage
 
-_** Methods **_
+_**Methods**_
 * Create a new instance with `LinkedList.new`
 * Add elements either to the beginning of the list `#prepend` or the end via `#append`
 * See what the first and last nodes are via respectively `#head` and `#tail`
